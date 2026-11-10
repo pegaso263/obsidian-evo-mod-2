@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "obsidian_evo:item/botas_evolutivas"
-  }
-}
